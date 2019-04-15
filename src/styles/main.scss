@@ -4,4 +4,8 @@ body {
     div {
         color: #696969;
     }
+
+    ::placeholder {
+      color: gray;
+    }
 }
